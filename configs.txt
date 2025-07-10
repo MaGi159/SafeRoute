@@ -1,0 +1,2 @@
+vless://a82741d0-7092-475b-bbb4-65a63c81f940@fast.absx.ir:57357?security=&encryption=none&headerType=http&type=tcp#Germany
+vless://36eb18ec-3d41-42ac-b281-d0d23cd68e6b@savteam.subscripshn.sbs:2052?path=%2F&security=&encryption=none&host=www.speedtest.net.tps.debian.org.gr.websites.savfast.ir.&type=httpupgrade#HTTPUG
