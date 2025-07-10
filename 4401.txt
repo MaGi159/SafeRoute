@@ -1,3 +1,3 @@
-# اگه قطع بودید فقطه فقط یبار آپدیت کنید با بهترین سرعت ممکن وصل میشید دوباره 
+# اگه قطع بودید فقطه آپدیت کنید 
 vless://a82741d0-7092-475b-bbb4-65a63c81f940@fast.absx.ir:57357?security=&encryption=none&headerType=http&type=tcp#Germany
 vless://36eb18ec-3d41-42ac-b281-d0d23cd68e6b@WwW.SPeeDTeST.NeT:2053?security=tls&encryption=none&host=G2.VGyop.Com.&fp=chrome&type=httpupgrade&sni=G2.VGyop.Com.#%F0%9F%8D%8C%20%20HTTPUG%20%F0%9F%87%A9%F0%9F%87%AA%20TLS%7EMODEM%E2%98%84%EF%B8%8F
